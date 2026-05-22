@@ -1,0 +1,44 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    box-sizing: border-box; /* Buena práctica para el modelo de caja */
+}
+
+
+body {
+    background-color: #f4f7f6;
+    padding: 20px;
+}
+
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+
+.post {
+    
+    background-color: #ffffff; 
+    border: 5px solid #bdc3c7;   
+    padding: 20px;              
+    margin: 30px auto;          
+    width: 90%;               
+    max-width: 500px;          
+    
+    border-radius: 20px;
+}
+
+
+.post h2 {
+    color: #34495e;
+    margin-top: 0;
+}
+
+
+#footer {
+    color: #7f8c8d;             
+    font-size: 0.9rem;         
+    font-style: italic;        
+    margin-top: 40px;
+}
